@@ -22,7 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rake',      '~> 10.0.4'
 
   gem.add_dependency 'thor',                  '~> 0.19.1'
-  gem.add_dependency 'thin',                  '~> 1.6.3'
+  gem.add_dependency 'thin',                  '~> 1.7.0'
   gem.add_dependency 'rubyzip',               '~> 1.1.7'
   gem.add_dependency 'netrc',                 '~> 0.10.3'
 
